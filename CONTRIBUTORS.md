@@ -335,7 +335,7 @@
 - GitHub: [andreas-ra](https://github.com/andreas-ra)
 
 #### Name: [Gordon Williamson]//(https://github.com/peejj82-ra)
--place: Motherwell, Scotland.
--Bio: Chef/Networking/Cyber Student.
--Github: [peejj82-ra](https://github.com/peejj82-ra)
+- place: Motherwell, Scotland.
+- Bio: Chef/Networking/Cyber Student.
+- Github: [peejj82-ra](https://github.com/peejj82-ra)
 
